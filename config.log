@@ -1,0 +1,14 @@
+2022-12-29 14:27:59,987 - exampleApp - INFO - Program started
+2022-12-29 14:27:59,987 - exampleApp.otherModule - INFO - added 7 and 8
+2022-12-29 14:27:59,988 - exampleApp - INFO - Done!
+2022-12-29 14:29:14,273 - exampleApp - INFO - Program started
+2022-12-29 14:29:14,274 - exampleApp.otherModule - INFO - added 7 and 8
+2022-12-29 14:29:14,275 - exampleApp - INFO - Done!
+2022-12-29 16:04:00,182 - exampleApp.main - ERROR - Table likely already exists. Moving on
+2022-12-29 16:04:57,268 - exampleApp.main - ERROR - Table likely already exists. Moving on
+2022-12-29 16:06:03,321 - exampleApp.main - ERROR - Table likely already exists. Moving on
+2022-12-29 16:07:09,655 - exampleApp.main - ERROR - Table likely already exists. Moving on
+2022-12-29 16:07:24,146 - exampleApp.main - ERROR - Table likely already exists. Moving on
+2022-12-29 16:07:54,607 - exampleApp.main - ERROR - Table likely already exists. Moving on
+2022-12-29 16:08:37,843 - exampleApp.main - ERROR - Table likely already exists. Moving on
+2022-12-29 16:08:55,910 - exampleApp.main - ERROR - Table likely already exists. Moving on
