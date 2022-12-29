@@ -12,3 +12,53 @@
 2022-12-29 16:07:54,607 - exampleApp.main - ERROR - Table likely already exists. Moving on
 2022-12-29 16:08:37,843 - exampleApp.main - ERROR - Table likely already exists. Moving on
 2022-12-29 16:08:55,910 - exampleApp.main - ERROR - Table likely already exists. Moving on
+2022-12-29 19:14:35,326 - exampleApp.main - ERROR - Table likely already exists. Moving on
+2022-12-29 19:16:40,026 - exampleApp.main - ERROR - Table likely already exists. Moving on
+2022-12-29 19:25:02,106 - exampleApp - INFO - Program started
+2022-12-29 19:25:02,107 - exampleApp.otherModule - INFO - added 7 and 8
+2022-12-29 19:25:02,107 - exampleApp - INFO - Done!
+2022-12-29 19:25:07,162 - exampleApp.main - ERROR - Table likely already exists. Moving on
+2022-12-29 19:28:02,781 - exampleApp - INFO - Program started
+2022-12-29 19:28:02,782 - exampleApp.otherModule - INFO - added 7 and 8
+2022-12-29 19:28:02,782 - exampleApp - INFO - Done!
+2022-12-29 19:28:19,580 - exampleApp.main - ERROR - Table likely already exists. Moving on
+2022-12-29 19:28:41,667 - exampleApp.main - ERROR - Table likely already exists. Moving on
+2022-12-29 19:38:09,580 - exampleApp - INFO - Logger initialized for exampleApp
+2022-12-29 19:38:09,583 - exampleApp.main - ERROR - Table likely already exists. Moving on
+2022-12-29 19:40:37,101 - exampleApp - INFO - Logger initialized for exampleApp
+2022-12-29 19:40:37,103 - exampleApp.main - ERROR - Table likely already exists. Moving on
+2022-12-29 19:41:52,729 - exampleApp - INFO - Logger initialized for exampleApp
+2022-12-29 19:41:52,731 - exampleApp.main - ERROR - Table likely already exists. Moving on
+2022-12-29 19:43:55,069 - exampleApp - INFO - Logger initialized for exampleApp
+2022-12-29 19:43:55,070 - exampleApp.main - ERROR - Table likely already exists. Moving on
+2022-12-29 19:44:24,778 - exampleApp - INFO - Logger initialized for exampleApp
+2022-12-29 19:46:29,187 - exampleApp - INFO - Logger initialized for exampleApp
+2022-12-29 19:46:29,189 - exampleApp.main - INFO - Trying to create a table USERS
+2022-12-29 19:46:29,190 - exampleApp.main - ERROR - Table likely already exists. Moving on
+2022-12-29 19:47:10,377 - exampleApp - INFO - Logger initialized for exampleApp
+2022-12-29 19:47:10,379 - exampleApp.main - INFO - Trying to create a table USERS
+2022-12-29 19:47:10,380 - exampleApp.main - ERROR - Table likely already exists. Moving on
+2022-12-29 19:47:10,382 - exampleApp.main - INFO - cleaned up users
+2022-12-29 19:47:10,383 - exampleApp.main - INFO - inserted a single row
+2022-12-29 19:47:10,385 - exampleApp.main - INFO - inserted a couple of rows in one batch
+2022-12-29 19:49:07,684 - exampleApp - INFO - Logger initialized for exampleApp
+2022-12-29 19:49:07,686 - exampleApp.main - INFO - Trying to create a table USERS
+2022-12-29 19:49:07,686 - exampleApp.main - ERROR - Table likely already exists. Moving on
+2022-12-29 19:49:07,688 - exampleApp.main - INFO - cleaned up users
+2022-12-29 19:49:07,689 - exampleApp.main - INFO - inserted a single row
+2022-12-29 19:49:07,692 - exampleApp.main - INFO - inserted a couple of rows in one batch
+2022-12-29 19:51:35,992 - exampleApp - INFO - Logger initialized for exampleApp
+2022-12-29 19:51:35,994 - exampleApp.main - INFO - Trying to create a table USERS
+2022-12-29 19:51:35,995 - exampleApp.main - ERROR - Table likely already exists. Moving on
+2022-12-29 19:51:35,996 - exampleApp.main - INFO - cleaned up users
+2022-12-29 19:51:35,997 - exampleApp.main - INFO - inserted a single row
+2022-12-29 19:51:35,999 - exampleApp.main - INFO - inserted a couple of rows in one batch
+2022-12-29 19:52:46,534 - exampleApp - INFO - Logger initialized for exampleApp
+2022-12-29 19:52:46,536 - exampleApp.main - INFO - Trying to create a table USERS
+2022-12-29 19:52:46,538 - exampleApp.createTableIfNotExists - ERROR - Table likely already exists. Moving on
+2022-12-29 19:53:09,654 - exampleApp - INFO - Logger initialized for exampleApp
+2022-12-29 19:53:09,655 - exampleApp.main - INFO - Trying to create a table USERS
+2022-12-29 19:53:09,656 - exampleApp.createTableIfNotExists - ERROR - Table likely already exists. Moving on
+2022-12-29 19:53:09,657 - exampleApp.cleanupAllData - INFO - cleaned up users
+2022-12-29 19:53:09,659 - exampleApp.insertData - INFO - inserted a single row
+2022-12-29 19:53:09,660 - exampleApp.insertData - INFO - inserted a couple of rows in one batch
