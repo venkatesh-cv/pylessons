@@ -62,3 +62,8 @@
 2022-12-29 19:53:09,657 - exampleApp.cleanupAllData - INFO - cleaned up users
 2022-12-29 19:53:09,659 - exampleApp.insertData - INFO - inserted a single row
 2022-12-29 19:53:09,660 - exampleApp.insertData - INFO - inserted a couple of rows in one batch
+2022-12-30 10:24:26,092 - exampleApp - INFO - Logger initialized for exampleApp
+2022-12-30 10:24:26,097 - exampleApp.main - INFO - Trying to create a table USERS
+2022-12-30 10:24:26,099 - exampleApp.cleanupAllData - INFO - cleaned up users
+2022-12-30 10:24:26,100 - exampleApp.insertData - INFO - inserted a single row
+2022-12-30 10:24:26,100 - exampleApp.insertData - INFO - inserted a couple of rows in one batch
